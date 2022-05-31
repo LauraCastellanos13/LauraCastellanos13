@@ -13,4 +13,3 @@
 Connect with me on Linkedin:
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/laura-castellanos-55b1a4155/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br />
