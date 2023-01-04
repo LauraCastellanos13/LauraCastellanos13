@@ -2,7 +2,7 @@
 
 ## I´m a Front-end developer
 
-- 🌱 I’m currently learning more about React and Pyhton
+- 🌱 I’m currently learning more about React Native and Pyhton
 - 🤓 Wishlist: Node.js, C++ and Unity
 - 👯 I’m looking to collaborate on Front-End projects 
 - 🧑‍🎓 Front-end developer and bachelor's degree in social communication
